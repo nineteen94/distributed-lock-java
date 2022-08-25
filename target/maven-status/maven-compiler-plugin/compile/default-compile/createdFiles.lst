@@ -1,4 +1,3 @@
-org/example/dlockjava/DistributedLockController.class
 org/example/dlockjava/KeyVariable.class
 org/example/dlockjava/DistributedProxyException.class
 org/example/dlockjava/DistributedLockComponent.class
@@ -7,4 +6,3 @@ org/example/dlockjava/LockConfig.class
 org/example/dlockjava/DistributedLockException.class
 org/example/dlockjava/DistributedLockComponentLocked.class
 org/example/dlockjava/DistributedLock.class
-org/example/dlockjava/DistributedLockApplication.class
